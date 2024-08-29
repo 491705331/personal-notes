@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="第 1 页" id="WKW6PNbSWRCfZVfYb1yH">
+    <mxGraphModel dx="1719" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5a0G4qErqvnj_8trAjZC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5a0G4qErqvnj_8trAjZC-2" target="5a0G4qErqvnj_8trAjZC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-2" value="t_bank_flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="38" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5a0G4qErqvnj_8trAjZC-3" target="5a0G4qErqvnj_8trAjZC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-3" value="t_bank_flow_summary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5a0G4qErqvnj_8trAjZC-5" target="5a0G4qErqvnj_8trAjZC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-5" value="t_bank_flow_base_summary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-7" value="t_bank_flow_board_snapshot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="555" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-10" value="&lt;span style=&quot;caret-color: rgb(0, 122, 255); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; orphans: 4; text-align: start; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;t_fund_bill_summary + t_fund_bill_biz&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="38" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5a0G4qErqvnj_8trAjZC-10" target="5a0G4qErqvnj_8trAjZC-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-105" y="197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-13" value="accountGroup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="38" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-15" value="业务单bizNo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="40" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-16" value="cashFlow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="38" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-17" value="从cdCashFlowMapping中映射小类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="40" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5a0G4qErqvnj_8trAjZC-19" target="5a0G4qErqvnj_8trAjZC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-19" value="cashFlowItem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="38" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-20" value="bu、subBu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="38" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-21" value="如果能根据bankFlowId从bankFlowBiz查询到付款单：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="8" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-23" value="corporate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="338" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-24" value="mainClass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="178" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-25" value="majorClass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-27" value="都由subClass映射（t_bank_flow_category_rule）&lt;div&gt;subClass = 流水表中的cashFlow&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-29" value="展示维度dimension" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="523" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-30" value="showName = cashName = cashFlowItem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="570" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-31" value="cashFlowItem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337" y="338" width="90" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5a0G4qErqvnj_8trAjZC-33" value="从common_mapping映射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="392" y="92" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
