@@ -376,7 +376,7 @@
         <mxCell id="hFWF7QPLLJkJ7M6lMb7s-50" value="银行流水清洗规则" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="111" width="70" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="hFWF7QPLLJkJ7M6lMb7s-53" value="1. 流水与下游的关系：银企推凭&lt;div&gt;2. 报表的数据核对 Q&amp;amp;A&lt;/div&gt;&lt;div&gt;3. 通用数据查询 sql 整理&lt;/div&gt;&lt;div&gt;4. 账户余额更新逻辑：银行账户、三方账户、7808账户&lt;/div&gt;&lt;div&gt;5. 两套现金流的对比：一个是从底表获取，一个是从快照表获取&lt;/div&gt;&lt;div&gt;6. 资金账户管理：账户来源、余额更新逻辑，同4，账户证书&lt;/div&gt;&lt;div&gt;7. 新增账号的余额是怎么来的&lt;/div&gt;&lt;div&gt;8. 所有报表的每一项、每一行都应该有解释&lt;/div&gt;&lt;div&gt;9. 罗马项目 罗马台账到底是个啥，什么时候回产生，怎么产生&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="hFWF7QPLLJkJ7M6lMb7s-53" value="1. 流水与下游的关系：银企推凭&lt;div&gt;2. 报表的数据核对 Q&amp;amp;A&lt;/div&gt;&lt;div&gt;3. 通用数据查询 sql 整理&lt;/div&gt;&lt;div&gt;4. 账户余额更新逻辑：银行账户、三方账户、7808账户&lt;/div&gt;&lt;div&gt;5. 两套现金流的对比：一个是从底表获取，一个是从快照表获取&lt;/div&gt;&lt;div&gt;6. 资金账户管理：账户来源、余额更新逻辑，同4，账户证书&lt;/div&gt;&lt;div&gt;7. 新增账号的余额是怎么来的&lt;/div&gt;&lt;div&gt;8. 所有报表的每一项、每一行都应该有解释&lt;/div&gt;&lt;div&gt;9. 罗马项目 罗马台账到底是个啥，什么时候回产生，怎么产生&lt;/div&gt;&lt;div&gt;10 付款指令、开销账号、资金调拨&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1200" y="-82" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="hFWF7QPLLJkJ7M6lMb7s-55" value="现金流报表v1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1195,7 +1195,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MG7J5M0lemW5tdZM1LZo" name="第 7 页">
-    <mxGraphModel dx="2280" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
